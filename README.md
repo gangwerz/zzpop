@@ -1,6 +1,8 @@
-# Pop!\_OS ISO production
+# ZZ Pop
 
-This repository contains the tools necessary for building Pop!\_OS ISOs.
+This repository contains the tools necessary for building ZZ Pop ISOs.
+
+ZZ Pop is just Pop!\_OS with BTRFS and a suite of preinstalled applications
 
 ## Requirements
 
